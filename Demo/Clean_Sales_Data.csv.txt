@@ -1,0 +1,5 @@
+order_id,customer,order_date,product,price_usd,status
+101,John Doe,2023-01-05,Laptop,1000.00,shipped
+102,Mary Smith,2023-01-15,Laptop,2500.00,processing
+103,Raj Patel,2023-03-10,Phone,15000.00,shipped
+104,Ali Khan,2023-03-05,Headphones,2000.00,pending

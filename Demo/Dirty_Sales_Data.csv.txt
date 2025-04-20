@@ -1,0 +1,6 @@
+OrderID,Customer,OrderDate,Product,Price,Status
+101,JOHN DOE,1/5/23,Laptop,1,000,Shipped
+102,mary smith,15-Jan,Laptop,2.500,Processing
+103,Raj Patel,2023-03-10,Phone,₹15000,Shipped
+101,JOHN DOE,05-01-23,Laptop,1000,Shipped  # Duplicate
+104,ali khan,March 5,Headphones,2k,Pending
